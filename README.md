@@ -1,5 +1,3 @@
-Sure, here's the updated README file with more content and without the tutorial part:
-
 ```text
 # Power-usage-prediction
 
