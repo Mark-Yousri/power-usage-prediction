@@ -1,4 +1,3 @@
-```text
 # Power-usage-prediction
 
 - This repository contains a Jupyter notebook that demonstrates the application of regression models to predict the power usage of a building based on various features.
@@ -14,4 +13,4 @@
 - The performance of each model is evaluated using metrics such as mean absolute error, mean squared error, and root mean squared error. The results are compared and discussed, providing insights into the strengths and weaknesses of each model.
 
 - The notebook concludes with a discussion of potential improvements and future work. This includes ideas for additional feature engineering, trying more complex models, and applying ensemble methods to combine the predictions of multiple models.
-```
+
